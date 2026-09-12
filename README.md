@@ -30,8 +30,8 @@ Interests     : Antinuke architecture, UI/UX polish, bot embeds
 ### Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzaycrazy)
-[![Discord](https://img.shields.io/badge/zFamily-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CZGazeKzXW)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Discord](https://img.shields.io/badge/zFamily-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HphQHw6VR6)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dzaycrazy)
 
 </div>
 
