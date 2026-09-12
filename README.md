@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:11111b&height=180&section=header&text=dzaycrazy&fontSize=42&fontColor=cba6f7&animation=fadeIn&fontAlignY=35&desc=Discord%20Bot%20Developer%20%7C%20Minecraft%20Server%20Admin&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:11111b&height=180&section=header&text=dzaycrazy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Discord%20Bot%20Developer%20%7C%20JavaScript%20%26%20Node.js&descAlignY=55&descSize=16&descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -41,8 +41,8 @@ Interests     : Antinuke architecture, UI/UX polish, bot embeds
 
 ### GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dzaycrazy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaycrazy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dzaycrazy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaycrazy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzaycrazy&theme=tokyonight&hide_border=true" />
 
@@ -54,7 +54,7 @@ Interests     : Antinuke architecture, UI/UX polish, bot embeds
 
 ### Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,html,css,mysql,git,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,discordjs,discord,html,css,py,java,js,php,c,mysql,mongodb" />
 
 </div>
 
@@ -64,6 +64,10 @@ Interests     : Antinuke architecture, UI/UX polish, bot embeds
 
 ### Contribution Activity
 
-<img src="https://raw.githubusercontent.com/dzaycrazy/dzaycrazy/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzaycrazy/dzaycrazy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzaycrazy/dzaycrazy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dzaycrazy/dzaycrazy/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
