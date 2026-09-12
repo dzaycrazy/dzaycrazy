@@ -21,7 +21,7 @@ Projects.Web  : Linecess (license dashboard)
 Community     : zFamily Network + zFamily Developer 
 Stack.Lang    : JavaScript, Node.js, Python, Html, CSS, Java
 Stack.APIs    : Discord.js, Components V2
-Stack.Infra   : PaperMC/Spigot, LuckPerms, DiscordSRV
+Skills        : Server Administration, Database, MySQL, MongoDB
 Interests     : Antinuke architecture, UI/UX polish, bot embeds
 ```
 
