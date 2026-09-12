@@ -41,8 +41,8 @@ Interests     : Antinuke architecture, UI/UX polish, bot embeds
 
 ### GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dzaycrazy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzaycrazy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="165" src="https://raw.githubusercontent.com/dzaycrazy/dzaycrazy/main/profile/stats.svg"/>
+<img height="165" src="https://raw.githubusercontent.com/dzaycrazy/dzaycrazy/main/profile/top-langs.svg"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzaycrazy&theme=tokyonight&hide_border=true" />
 
